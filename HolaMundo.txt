@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola mundo!! Adios mundo!! 
 
 holaholahola
+=======
+Hola mundo!!
+>>>>>>> parent of 8c5a4ff... Commit Hola y Adios mundo
