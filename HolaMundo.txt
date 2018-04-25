@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hola mundo!! Adios mundo!! 
+
+holaholahola
+=======
 Hola mundo!!
+>>>>>>> parent of 8c5a4ff... Commit Hola y Adios mundo
+=======
+Hola mundo!! Adios mundo!! 
+>>>>>>> parent of 4c5ee77... commit para revert
